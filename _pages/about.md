@@ -12,7 +12,7 @@ redirect_from:
 About Me
 ======
 
-I am currently a first year Ph.D student at the [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Prof. Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). My research interests mainly lie at adversarial machine learning and backdoor attacks/defense for AI models. 
+My name is Guangyu Shen. I am currently a first year Ph.D student at the [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Prof. Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). My research interests mainly lie at adversarial machine learning and backdoor attacks/defense for AI models. 
 
 I am also a core member of team Perspecta-PurdueRutgers for [TrojAI competition](https://pages.nist.gov/trojai/). Our team ranks top cross round 1 to 4 and 6. Find more info [here](https://pages.nist.gov/trojai/docs/about.html).
 
@@ -22,14 +22,24 @@ News
 
 Publications
 ======
-* **Backdoor Scanning for Deep Neural Networks through K-Arm Optimization**
+* **Backdoor Scanning for Deep Neural Networks through K-Arm Optimization** <br>
+  **Guangyu Shen***, Yingqi Liu*, Guanhong Tao, Shengwei An, Qiuling Xu, Siyuan Cheng, Shiqing Ma, Xiangyu Zhang <br>
+  *Proceedings of the 38th International Conference on Machine Learning (**ICML 2021**)* <br>
+  [[pdf](https://arxiv.org/abs/2102.05123)] [[cite](https://scholar.googleusercontent.com/scholar.bib?q=info:taS9v2s0r_8J:scholar.google.com/&output=citation&scisdr=CgXFlNsWEPvnt1ZlwpY:AAGBfm0AAAAAYK9g2pZ2J_1p5oRIDqoD2k36r26mqs3-&scisig=AAGBfm0AAAAAYK9g2qlEyrHyklprPgoYiJG86WNXBE3O&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)]
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* **EX-RAY: Distinguishing Injected Backdoor from Natural Features in Neural Networks by Examining Differential Feature Symmetry** <br>
+  Yingqi Liu*, **Guangyu Shen***, Guanhong Tao, Zhenting Wang, Shiqing Ma, Xiangyu Zhang <br>
+  *ArXiv. Prepaint 2021* <br>
+  [[pdf](https://arxiv.org/abs/2103.08820)] [[cite](https://scholar.googleusercontent.com/scholar.bib?q=info:NbTRUraSRdgJ:scholar.google.com/&output=citation&scisdr=CgXFlNsWEPvnt1Zk7y8:AAGBfm0AAAAAYK9h9y_xAmVEh3rNqOXT5CeuGJRChU7c&scisig=AAGBfm0AAAAAYK9h96v_AM8CHHJY120ySK2RIpsmIli0&scisf=4&ct=citation&cd=-1&hl=en)]
+ 
+ 
+* **Fooling Semantic Segmentation in One Step via Manipulating Nuisance Factors** <br>
+  **Guangyu Shen**, Chengzhi Mao, Junfeng Yang, Baishakhi Ray <br>
+  *ECCV 2020 Workshop on Adverasrial Robustness in the Real World* <br>
+  [[pdf](http://www.cs.columbia.edu/~junfeng/papers/advspade-eccv20-arow.pdf)][[cite](https://scholar.googleusercontent.com/scholar.bib?q=info:2e2b8XXLw4QJ:scholar.google.com/&output=citation&scisdr=CgXFlNsWEPvnt1ZmZrQ:AAGBfm0AAAAAYK9jfrQkV2GM1lxqS17mmwJ_YsQ8dN_8&scisig=AAGBfm0AAAAAYK9jfn8EYvYjLRRQdQ-jMJAERy0nMAnS&scisf=4&ct=citation&cd=-1&hl=en)][[Conference page](https://eccv20-adv-workshop.github.io/)]
+
+* **PENet: Object Detection using Points Estimation in Aerial Images** <br>
+  Ziyang Tang, Xiang Liu, **Guangyu Shen**, Baijian Yang
 
 Site-wide configuration
 ------
