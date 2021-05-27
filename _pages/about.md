@@ -12,13 +12,12 @@ redirect_from:
 About Me
 ======
 
-My name is Guangyu Shen. I am currently a first year Ph.D student at the [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Prof. Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). My research interests mainly lie at adversarial machine learning and backdoor attacks/defense for AI models. 
-
-I am also a core member of team Perspecta-PurdueRutgers for [TrojAI competition](https://pages.nist.gov/trojai/). Our team ranks top cross round 1 to 4 and 6. Find more info [here](https://pages.nist.gov/trojai/docs/about.html).
+* I am currently a first year Ph.D student at the [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Prof. Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). My research interests mainly lie at adversarial machine learning and backdoor attacks/defense for AI models. 
+* I am also a core member of team Perspecta-PurdueRutgers for [TrojAI competition](https://pages.nist.gov/trojai/). Our team ranks top cross round 1 to 4 and 6. Find more info [here](https://pages.nist.gov/trojai/docs/about.html).
 
 News
 ======
-* **May. 2021:** Our paper on backdoor scanning got accetped to [ICML 2021](https://icml.cc/). Full respect to the co-workers!
+* **May. 2021:** Our paper on backdoor scanning got accetped to [ICML 2021](https://icml.cc/). Full respect to all the co-workers!
 
 Publications
 ======
